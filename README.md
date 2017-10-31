@@ -399,3 +399,8 @@ https://github.com/armdev/reactive-javaserver-faces
 ## derive4j
 
 https://github.com/derive4j/derive4j
+
+## Jtwig 
+https://github.com/jtwig/jtwig-core
+## vertx-guice
+https://github.com/intappx/vertx-guice
