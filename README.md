@@ -379,3 +379,15 @@ https://www.sql2o.org/
 ## light-rpc
 
 https://github.com/dengqiao/light-rpc
+
+## dubbo
+
+https://github.com/armdev/dubbo
+
+## uber-tchannel
+
+https://github.com/armdev/uber-tchannel
+
+## reactive-javaserver-faces
+
+https://github.com/armdev/reactive-javaserver-faces
