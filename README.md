@@ -404,3 +404,51 @@ https://github.com/derive4j/derive4j
 https://github.com/jtwig/jtwig-core
 ## vertx-guice
 https://github.com/intappx/vertx-guice
+## j360-cloud-all
+https://github.com/xuminwlt/j360-cloud-all
+## spring-thrift-starter
+https://github.com/aatarasoff/spring-thrift-starter
+
+## mango
+
+https://github.com/TFrise/mango
+
+## spring-cloud-example
+
+https://github.com/luoml/spring-cloud-example
+
+## coreNlp
+
+https://github.com/jconwell/coreNlp
+
+## solace-samples-jms
+
+https://github.com/SolaceSamples/solace-samples-jms
+##  BitcoindClient4J
+https://github.com/johannbarbie/BitcoindClient4J
+## jcuda
+https://github.com/jcuda/jcuda
+## DecisionTree
+https://github.com/mostafacs/DecisionTree
+## spring-cloud-dashboard
+
+https://github.com/spring-cloud/spring-cloud-dashboard
+
+## spring-vertx-ext
+
+https://github.com/amoAHCP/spring-vertx-ext
+
+## spmia-chapter1
+https://github.com/carnellj/spmia-chapter1
+
+## spring-cloud-demo
+
+https://github.com/leoChaoGlut/spring-cloud-demo
+
+## eclipse.jdt.ls
+
+https://github.com/eclipse/eclipse.jdt.ls
+
+## dockerfiles-windows
+
+https://github.com/StefanScherer/dockerfiles-windows
