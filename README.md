@@ -534,3 +534,12 @@ https://github.com/redhat-helloworld-msa/hola
 
 ## frontend
 https://github.com/redhat-helloworld-msa/frontend
+
+## vert.x-spring-microservice-demo
+https://github.com/amoAHCP/vert.x-spring-microservice-demo
+
+## vert.x-microservice-demo
+https://github.com/amoAHCP/vert.x-microservice-demo
+
+## vertx-microservices-workshop
+https://github.com/cescoffier/vertx-microservices-workshop
