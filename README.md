@@ -335,3 +335,47 @@ https://github.com/timmolter/Yank
 ## Sundial
 
 https://github.com/timmolter/Sundial
+
+## jodd
+
+https://github.com/oblac/jodd
+
+## javalite
+
+https://github.com/javalite
+
+## jdbi
+
+http://jdbi.org/
+
+## light-4j
+
+https://github.com/networknt/light-4j
+
+## activejdbc
+
+https://github.com/javalite/activejdbc
+
+## activeweb-rest
+
+https://github.com/javalite/activeweb-rest
+
+## light-rest-4j
+
+https://github.com/networknt/light-rest-4j
+
+## queues.io
+
+http://queues.io/
+
+## english_inflections
+
+http://javalite.io/english_inflections
+
+## sql2o
+
+https://www.sql2o.org/
+
+## light-rpc
+
+https://github.com/dengqiao/light-rpc
