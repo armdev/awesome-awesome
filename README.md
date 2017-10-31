@@ -2,6 +2,10 @@
 ## awesome-awesome
 awesome-awesome useful list of libraries and frameworks
 
+## awesome-jvm
+
+https://github.com/deephacks/awesome-jvm
+
 ## vertx-awesome
 
 https://github.com/vert-x3/vertx-awesome
