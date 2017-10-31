@@ -263,3 +263,7 @@ https://github.com/detailyang/awesome-cheatsheet
 ## awesome-awesome-awesome
 
 https://github.com/t3chnoboy/awesome-awesome-awesome
+
+## functions-samples
+
+https://github.com/firebase/functions-samples
