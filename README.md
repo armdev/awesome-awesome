@@ -507,3 +507,30 @@ https://github.com/AdamBien/docklands
 https://github.com/AdamBien/javaee8-essentials-archetype
 ## javamelody
 https://github.com/javamelody/javamelody
+
+## javaee8-samples
+https://github.com/javaee-samples/javaee8-samples
+
+## JavaEE8-Playground
+https://github.com/juneau001/JavaEE8-Playground
+
+## jsonb-spec
+https://github.com/javaee/jsonb-spec
+
+## jsonp
+https://github.com/javaee/jsonp
+
+## FortEE
+https://github.com/Pscheidl/FortEE
+
+## javaee8-jsf-sample
+https://github.com/hantsy/javaee8-jsf-sample
+
+## aloha
+https://github.com/redhat-helloworld-msa/aloha
+
+## hola
+https://github.com/redhat-helloworld-msa/hola
+
+## frontend
+https://github.com/redhat-helloworld-msa/frontend
