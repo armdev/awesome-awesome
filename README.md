@@ -271,3 +271,67 @@ https://github.com/t3chnoboy/awesome-awesome-awesome
 ## functions-samples
 
 https://github.com/firebase/functions-samples
+
+## java-8-lambdas-exercises
+
+https://github.com/RichardWarburton/java-8-lambdas-exercises
+
+## lambda-behave
+
+https://github.com/RichardWarburton/lambda-behave
+
+## rulebook
+
+https://github.com/rulebook-rules/rulebook
+
+## throwing-lambdas
+
+https://github.com/fge/throwing-lambdas
+
+## vavr-javaslang
+
+https://github.com/vavr-io/vavr
+
+## jOOL
+
+https://github.com/jOOQ/jOOL
+
+## faux-pas
+
+https://github.com/zalando/faux-pas
+
+## reacto
+
+https://github.com/soundvibe/reacto
+
+## pippo
+
+https://github.com/decebals/pippo
+
+## XChart, dropwizard
+
+https://github.com/timmolter/XChart
+
+## Lightweight-Stream-API
+
+https://github.com/aNNiMON/Lightweight-Stream-API
+
+## pac4j
+
+https://github.com/pac4j/pac4j
+
+## dropwizard-dashboard
+
+https://github.com/kimble/dropwizard-dashboard
+
+## XDropWizard
+
+https://github.com/timmolter/XDropWizard
+
+## Yank
+
+https://github.com/timmolter/Yank
+
+## Sundial
+
+https://github.com/timmolter/Sundial
