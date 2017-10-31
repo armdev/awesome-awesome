@@ -247,3 +247,15 @@ https://github.com/in-memoriam/in-memoriam
 ## awesome-android-ui
 
 https://github.com/wasabeef/awesome-android-ui
+
+## github-cheat-sheet
+
+https://github.com/tiimgreen/github-cheat-sheet
+
+## frontend-dev-bookmarks
+
+https://github.com/dypsilon/frontend-dev-bookmarks
+
+## awesome-cheatsheet
+
+https://github.com/detailyang/awesome-cheatsheet
