@@ -152,6 +152,10 @@ https://github.com/stve/awesome-dropwizard
 
 https://github.com/rightlag/awesome-dapps
 
+## derive4j
+
+https://github.com/derive4j/derive4j
+
 ## awesome-productivity
 
 https://github.com/eivindml/awesome-productivity
