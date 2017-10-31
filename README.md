@@ -155,3 +155,79 @@ https://github.com/eivindml/awesome-productivity
 ## system-design-primer
 
 https://github.com/donnemartin/system-design-primer
+
+## mapdb
+
+https://github.com/jankotek/mapdb
+
+## chronicle-Map
+
+https://github.com/OpenHFT/Chronicle-Map
+
+## mapdb-benchmarks
+
+https://github.com/jankotek/mapdb-benchmarks
+
+## chronicle-Map-Java8
+
+https://github.com/OpenHFT/Chronicle-Map-Java8
+
+## benchmarks
+
+https://github.com/lmdbjava/benchmarks
+
+## 52-technologies-in-2016
+
+https://github.com/shekhargulati/52-technologies-in-2016
+
+## docker-labs
+
+https://github.com/docker/labs
+
+## stanford-tensorflow-tutorials
+
+https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
+## awesome-hacking
+
+https://github.com/carpedm20/awesome-hacking
+
+## eugenp-tutorials
+
+https://github.com/eugenp/tutorials
+
+## rpc-framework-tutorials
+
+https://github.com/TFrise/rpc-framework-tutorials
+
+## docker-swarm-tutorial
+
+https://github.com/ryanwalls/docker-swarm-tutorial
+
+## javaslang-tutorials
+
+https://github.com/bigkahuna1uk/javaslang-tutorials
+
+## framework-benchmarks
+
+https://github.com/TechEmpower/FrameworkBenchmarks
+
+## microservices-framework-benchmark
+
+https://github.com/networknt/microservices-framework-benchmark
+
+## http-benchmarks
+
+https://github.com/orangy/http-benchmarks
+
+## parallelism-benchmarks
+
+https://github.com/arienkock/parallelism-benchmarks
+
+## lambdabenchmark
+
+https://github.com/spullara/lambdabenchmark
+
+## http2client-benchmark
+
+https://github.com/networknt/http2client-benchmark
