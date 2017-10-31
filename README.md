@@ -452,3 +452,58 @@ https://github.com/eclipse/eclipse.jdt.ls
 ## dockerfiles-windows
 
 https://github.com/StefanScherer/dockerfiles-windows
+
+## dita-ot
+https://github.com/dita-ot/dita-ot
+
+## markup
+
+https://github.com/github/markup
+
+## piggymetrics
+https://github.com/dins-heisenbug-2016/piggymetrics
+## PiggyMetrics
+https://github.com/sqshq/PiggyMetrics
+
+##  C1000K-Servers, vert.x
+
+https://github.com/smallnest/C1000K-Servers
+
+## vertx-blueprint-microservice
+https://github.com/sczyh30/vertx-blueprint-microservice
+
+## vertx-guide-for-java-devs
+https://github.com/vert-x3/vertx-guide-for-java-devs
+## vert.x, nubes
+https://github.com/aesteve/nubes
+## knotx
+
+https://github.com/Cognifide/knotx
+
+## EVCache
+
+https://github.com/Netflix/EVCache
+
+## qbit
+
+https://github.com/advantageous/qbit
+
+## event-stream-processing-microservices, spring
+https://github.com/kbastani/event-stream-processing-microservices
+
+## spring-cloud-ping-pong-sample
+https://github.com/bijukunjummen/spring-cloud-ping-pong-sample
+
+## netflix-oss-example
+https://github.com/Oreste-Luci/netflix-oss-example
+## gs-client-side-load-balancing
+https://github.com/spring-guides/gs-client-side-load-balancing
+## tcloud-microservices
+https://github.com/javaguru/tcloud-microservices
+
+## docklands, AdamBien
+https://github.com/AdamBien/docklands
+## javaee8-essentials-archetype
+https://github.com/AdamBien/javaee8-essentials-archetype
+## javamelody
+https://github.com/javamelody/javamelody
