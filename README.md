@@ -231,3 +231,19 @@ https://github.com/spullara/lambdabenchmark
 ## http2client-benchmark
 
 https://github.com/networknt/http2client-benchmark
+
+## awesome-elasticsearch
+
+https://github.com/dzharii/awesome-elasticsearch
+
+## awesome-nosql
+
+https://github.com/erictleung/awesome-nosql
+
+## awesome in-memoriam
+
+https://github.com/in-memoriam/in-memoriam
+
+## awesome-android-ui
+
+https://github.com/wasabeef/awesome-android-ui
