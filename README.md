@@ -543,3 +543,14 @@ https://github.com/amoAHCP/vert.x-microservice-demo
 
 ## vertx-microservices-workshop
 https://github.com/cescoffier/vertx-microservices-workshop
+
+## HikariCP
+https://github.com/brettwooldridge/HikariCP
+
+## HikariCP-benchmark
+
+https://github.com/brettwooldridge/HikariCP-benchmark
+
+## jmh-tutorial
+
+https://github.com/guozheng/jmh-tutorial
