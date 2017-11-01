@@ -38,6 +38,14 @@ https://github.com/kahun/awesome-sysadmin
 
 https://github.com/akullpp/awesome-java
 
+## lombok
+
+https://github.com/rzwitserloot/lombok
+
+## wildfly-liquidbase
+
+https://github.com/sevenfate/wildfly-liquidbase
+
 
 ## awesome-remote-job
 
@@ -600,3 +608,9 @@ https://github.com/armdev/docker-scaler
 https://github.com/armdev/cadvisor
 ## hello-docker
 https://github.com/armdev/hello-docker
+
+## wildfly-swarm
+https://github.com/wildfly-swarm/wildfly-swarm
+
+## lombok
+https://github.com/rzwitserloot/lombok
