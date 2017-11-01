@@ -620,4 +620,33 @@ https://github.com/javaee-samples/devops
 
 https://github.com/flyway/flyway
 
+## mapr-sparkstreaming-vertx-uberheatmap
+
+https://github.com/caroljmcdonald/mapr-sparkstreaming-vertx-uberheatmap
+
+## mapr-streams-sample-programs
+
+https://github.com/mapr-demos/mapr-streams-sample-programs
+
+##  vertx-console-example
+
+https://github.com/yunyu/vertx-console-example
+
+## vertx-openshift-shopping-hol
+https://github.com/cescoffier/vertx-openshift-shopping-hol
+
+## rolling-metrics
+
+https://github.com/vladimir-bukhtoyarov/rolling-metrics
+
+## hello-twitter
+
+https://github.com/Swiip/hello-twitter
+
+## parallec
+https://github.com/eBay/parallec
+
+## sshj
+
+https://github.com/hierynomus/sshj
 
