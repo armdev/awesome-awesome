@@ -592,9 +592,6 @@ https://github.com/armdev/oada-srvc-docker
 
 https://github.com/armdev/books
 
-## microservices
-
-https://github.com/armdev/microservices
 
 ## hello-docker
 
