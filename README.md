@@ -614,3 +614,13 @@ https://github.com/wildfly-swarm/wildfly-swarm
 
 ## lombok
 https://github.com/rzwitserloot/lombok
+
+## javaee-samples-devops
+
+https://github.com/javaee-samples/devops
+
+## flyway
+
+https://github.com/flyway/flyway
+
+
