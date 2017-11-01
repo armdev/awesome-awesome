@@ -112,6 +112,17 @@ https://github.com/xgrommx/awesome-functional-programming
 
 https://github.com/marmelab/awesome-rest
 
+## uber-cadence
+
+https://github.com/uber/cadence
+
+## uber -AutoDispose
+https://github.com/uber/AutoDispose
+
+## uber-AthenaX
+
+https://github.com/uber/AthenaX
+
 ## awesome-iot
 
 https://github.com/phodal/awesome-iot
