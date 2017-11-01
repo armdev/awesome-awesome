@@ -554,3 +554,49 @@ https://github.com/brettwooldridge/HikariCP-benchmark
 ## jmh-tutorial
 
 https://github.com/guozheng/jmh-tutorial
+
+## influxdb-java
+https://github.com/influxdata/influxdb-java
+
+## docker-java client
+https://github.com/docker-java/docker-java
+
+## fdk-java
+
+https://github.com/fnproject/fdk-java
+
+## dokku
+
+https://github.com/dokku/dokku
+
+## kong
+
+https://github.com/Kong/kong
+
+## docker-client
+https://github.com/spotify/docker-client
+
+## oada-srvc-docker
+
+https://github.com/armdev/oada-srvc-docker
+
+## books
+
+https://github.com/armdev/books
+
+## microservices
+
+https://github.com/armdev/microservices
+
+## hello-docker
+
+https://github.com/armdev/hello-docker
+
+## docker-scaler
+
+https://github.com/armdev/docker-scaler
+
+## cadvisor
+https://github.com/armdev/cadvisor
+## hello-docker
+https://github.com/armdev/hello-docker
