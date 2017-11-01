@@ -661,3 +661,9 @@ https://github.com/eBay/parallec
 
 https://github.com/hierynomus/sshj
 
+## play-with-docker
+
+https://github.com/play-with-docker/play-with-docker
+
+## faktory
+https://github.com/contribsys/faktory
