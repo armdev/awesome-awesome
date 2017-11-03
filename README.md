@@ -671,3 +671,31 @@ https://github.com/contribsys/faktory
 ## awesome-progressive-web-apps
 
 https://github.com/TalAter/awesome-progressive-web-apps
+
+
+## graphql-spring-boot
+
+https://github.com/oembedler/graphql-spring-boot
+
+## graphql-java
+
+https://github.com/graphql-java/graphql-java
+## free-programming-books
+https://github.com/EbookFoundation/free-programming-books
+
+##  awesome-awesome
+
+https://github.com/erichs/awesome-awesome
+
+## awesome-minimalist
+https://github.com/neiesc/awesome-minimalist
+
+## awesome-honeypots
+
+https://github.com/paralax/awesome-honeypots
+
+## Awesome-Networking
+https://github.com/clowwindy/Awesome-Networking
+
+## awesome-postgres
+https://github.com/dhamaniasad/awesome-postgres
