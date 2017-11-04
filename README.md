@@ -699,3 +699,6 @@ https://github.com/clowwindy/Awesome-Networking
 
 ## awesome-postgres
 https://github.com/dhamaniasad/awesome-postgres
+
+## youtube-dl
+https://github.com/rg3/youtube-dl
