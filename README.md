@@ -702,3 +702,6 @@ https://github.com/dhamaniasad/awesome-postgres
 
 ## youtube-dl
 https://github.com/rg3/youtube-dl
+
+## cas
+https://github.com/apereo/cas
