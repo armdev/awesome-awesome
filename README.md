@@ -2,6 +2,10 @@
 ## awesome-awesome
 awesome-awesome useful list of libraries and frameworks
 
+## awesome-javaee8
+
+https://github.com/hantsy/awesome-javaee8
+
 ## awesome-jvm
 
 https://github.com/deephacks/awesome-jvm
