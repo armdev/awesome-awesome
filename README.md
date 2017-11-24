@@ -709,3 +709,6 @@ https://github.com/rg3/youtube-dl
 
 ## cas
 https://github.com/apereo/cas
+
+## jcabi.com
+http://www.jcabi.com/
