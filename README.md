@@ -85,7 +85,7 @@ https://github.com/mfornos/awesome-microservices
 
 ## awesome-for-beginners
 
-https://github.com/MunGell/awesome-for-beginners
+https://github.com/RamaniHiteshc/All-Language-Information
 
 ## useful-java-links
 
